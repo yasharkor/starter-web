@@ -9,5 +9,4 @@ Add the purpose
 
 ## Deployment
 This is the deploymwnt section
-New
-New2
+Copyright notice
