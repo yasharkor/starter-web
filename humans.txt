@@ -4,6 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+    Yashar -- machne learning engineer
 
 # THANKS
 
